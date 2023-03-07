@@ -14,7 +14,11 @@ Click "Download Setup for Windows" under "How do I download Arcrylic?"
 
 ## Setup
 
-Once you have Arcrylic downloaded, click "file" and then "configuration".
-This will open the configuration file. Scroll to the bottom. Under [AllowedAddressesSection] enter your custom IP addresses as shown by the examples highlighted in blue.
+Once you have Arcrylic downloaded, click "File" and then "Open Arcrylic Configuration" or press Ctrl+F1 to open the Configuraion File.
+
+![image](https://user-images.githubusercontent.com/55543355/223299409-f1459512-1807-4ea6-a93d-973054b15d37.png)
+
+
+At the bottom, under "[AllowedAddressesSection]" enter your custom IP addresses as shown by the examples highlighted in blue.
 
 ![image](https://user-images.githubusercontent.com/55543355/223296946-22c978ba-2d7f-4885-b53c-a0c4acccd828.png)
