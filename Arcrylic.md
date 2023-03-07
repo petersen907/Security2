@@ -42,4 +42,9 @@ Under Policies => NAT at the bottom left, click "+ Add" to begin a new NAT Polic
 
 ![image](https://user-images.githubusercontent.com/55543355/223484504-a8526ec5-d9e4-4a69-aa9a-c3c413c7c316.png)
 
+# Test
+
+In order to test that Arcrylic is working, use the Arcrylic Server VM to run a nslookup. Example below:
+
+![image](https://user-images.githubusercontent.com/55543355/223487569-eb98341b-0a5c-46f9-b9c0-23d626f5d5a4.png)
 
