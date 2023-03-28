@@ -13,3 +13,10 @@ To run the docker container we go to the same directory that the docker-compose.
 
 ![SquidDocker](https://user-images.githubusercontent.com/55543355/228108406-2a59e4d8-5dfb-4e0a-b36f-7dfb764119af.jpg)
 
+## Web Browsing Test
+
+![WebBrowsing](https://user-images.githubusercontent.com/55543355/228110702-f0b5ee29-caea-4045-9ecd-8e90b9458c7c.jpg)
+
+## DNF Test
+
+![DNFUpdates](https://user-images.githubusercontent.com/55543355/228111484-5d0866e5-9b54-4f68-84f0-d89da6a8d811.jpg)
